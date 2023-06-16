@@ -1,6 +1,9 @@
 # svgLogoMaker
 
 ## Description
+A simple logo generator that uses inquirer to prompt the user for input and then automatically generates a SVG logo that meets the users criteria. 
+
+Run program with 'node index.js'
 
 ## User Story
 
@@ -28,3 +31,13 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
+
+## Installation 
+
+Run command 'npm i' to install necessary dependencies.
+
+## Screenshot
+![](./assets/images/ScreenshotOfsvgChallenge.png)
+
+## Video Walkthrough
+<iframe src="https://drive.google.com/file/d/1nHnJ83OOFNQAFEdN-OW4TtqUvw3ygc1k/preview" width="640" height="480" allow="autoplay"></iframe>
