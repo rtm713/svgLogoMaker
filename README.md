@@ -40,3 +40,6 @@ Run command 'npm i' to install necessary dependencies.
 ![](./assets/images/ScreenshotOfsvgChallenge.png)
 
 ## Video Walkthrough
+
+
+[Untitled_ Jun 16, 2023 3_22 PM.webm](https://github.com/rtm713/svgLogoMaker/assets/127454251/850eadae-50b7-44a8-b49f-dbe6c303cb80)
