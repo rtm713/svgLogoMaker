@@ -40,4 +40,3 @@ Run command 'npm i' to install necessary dependencies.
 ![](./assets/images/ScreenshotOfsvgChallenge.png)
 
 ## Video Walkthrough
-<iframe src="https://drive.google.com/file/d/1nHnJ83OOFNQAFEdN-OW4TtqUvw3ygc1k/preview" width="640" height="480" allow="autoplay"></iframe>
